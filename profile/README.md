@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/img/NetZero.png" alt="Net Zero Horizon" width="1000">
+  <img src="/img/NetZero_logo.svg" alt="Net Zero Horizon" width="1000">
 </p>
 
 # Net Zero Horizon
