@@ -40,5 +40,5 @@ Individual repositories are released under their respective licenses (MIT or GPL
 
 ## Contact
 
-- **Location:** Japan
+- **Location:** Hiroshima University, Japan
 - **LinkedIn:** [Net Zero Horizon](https://www.linkedin.com/company/112450141)
