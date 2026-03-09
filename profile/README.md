@@ -14,9 +14,10 @@ Net Zero Horizon is a collaborative initiative that develops and maintains open-
 | Repository | Description |
 |---|---|
 | [OTEX](https://github.com/Net-Zero-Horizon/OTEX) | Ocean Thermal Energy eXchange — OTEC resource assessment and techno-economic analysis |
-| [SolareX](https://github.com/Net-Zero-Horizon/solarex) | Solar Resource eXchange — solar PV resource assessment, MCDA, and site analysis |
-| [WindreX](https://github.com/Net-Zero-Horizon/windrex) | Wind Resource eXchange — wind resource assessment, wake modeling, and site analysis |
-| [RoofteX](https://github.com/Net-Zero-Horizon/rooftex) | Rooftop Solar eXchange — adoption dynamics, stochastic profiles, and potential estimation |
+| [SOLAREX](https://github.com/Net-Zero-Horizon/solarex) | Solar Resource eXchange — solar PV resource assessment, MCDA, and site analysis |
+| [WINDREX](https://github.com/Net-Zero-Horizon/windrex) | Wind Resource eXchange — wind resource assessment, wake modeling, and site analysis |
+| [ROOFTEX](https://github.com/Net-Zero-Horizon/rooftex) | Rooftop Solar eXchange — adoption dynamics, stochastic profiles, and potential estimation |
+| [EVREX](https://github.com/Net-Zero-Horizon/evrex) | EV Resoirce eXchange — vehicle fleet electrification assessment, adoption modeling, V2G potential analysis, battery degradation modeling, and grid impact assessment. |
 
 ### Coming Soon
 
