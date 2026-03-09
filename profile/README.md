@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="/img/NetZero_logo.svg" alt="Net Zero Horizon" width="1000">
+  <img src="https://github.com/Net-Zero-Horizon/.github/blob/46b16079ef87d5b090a19675350abde4088548a5/img/NetZero_logo.svg" alt="Net Zero Horizon" width="1000">
 </p>
+
 
 # Net Zero Horizon
 
