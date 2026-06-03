@@ -13,15 +13,12 @@ Net Zero Horizon is a collaborative initiative that develops and maintains open-
 
 | Repository | Description |
 |---|---|
+| [ESFEX](https://github.com/Net-Zero-Horizon/ESFEX) | Energy System FlEXibility — hybrid Python/Julia framework for power system capacity expansion and operational dispatch under high renewable penetration. Integrates the resource-assessment tools below into a unified optimization model |
 | [OTEX](https://github.com/Net-Zero-Horizon/OTEX) | Ocean Thermal Energy eXchange — OTEC resource assessment and techno-economic analysis |
 | [SOLAREX](https://github.com/Net-Zero-Horizon/solarex) | Solar Resource eXchange — solar PV resource assessment, MCDA, and site analysis |
 | [WINDREX](https://github.com/Net-Zero-Horizon/windrex) | Wind Resource eXchange — wind resource assessment, wake modeling, and site analysis |
 | [ROOFTEX](https://github.com/Net-Zero-Horizon/rooftex) | Rooftop Solar eXchange — adoption dynamics, stochastic profiles, and potential estimation |
-| [EVREX](https://github.com/Net-Zero-Horizon/evrex) | EV Resoirce eXchange — vehicle fleet electrification assessment, adoption modeling, V2G potential analysis, battery degradation modeling, and grid impact assessment. |
-
-### Coming Soon
-
-- **REFLEX** — Renewable Flexible Energy System Modeling — integrated optimization framework for planning carbon-neutral energy transitions
+| [EVREX](https://github.com/Net-Zero-Horizon/evrex) | EV Resource eXchange — vehicle fleet electrification assessment, adoption modeling, V2G potential analysis, battery degradation modeling, and grid impact assessment. |
 
 ## Focus Areas
 
@@ -37,7 +34,7 @@ We welcome contributions from the research and open-source communities. Please r
 
 ## License
 
-Individual repositories are released under their respective licenses (MIT or GPL-3.0). Check each repository for specifics.
+Individual repositories are released under their respective licenses (MIT, Apache-2.0, or GPL-3.0). Check each repository for specifics.
 
 ## Contact
 
