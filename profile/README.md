@@ -13,7 +13,7 @@ Net Zero Horizon is a collaborative initiative that develops and maintains open-
 
 | Repository | Description |
 |---|---|
-| [ESFEX](https://github.com/Net-Zero-Horizon/ESFEX) | Energy System FlEXibility — hybrid Python/Julia framework for power system capacity expansion and operational dispatch under high renewable penetration. Integrates the resource-assessment tools below into a unified optimization model |
+| [ESFEX](https://github.com/Net-Zero-Horizon/ESFEX) | Energy System Flexibility — Framework for power system capacity expansion and operational dispatch under high renewable penetration. Integrates the resource-assessment tools below into a unified optimization model |
 | [OTEX](https://github.com/Net-Zero-Horizon/OTEX) | Ocean Thermal Energy eXchange — OTEC resource assessment and techno-economic analysis |
 | [SOLAREX](https://github.com/Net-Zero-Horizon/solarex) | Solar Resource eXchange — solar PV resource assessment, MCDA, and site analysis |
 | [WINDREX](https://github.com/Net-Zero-Horizon/windrex) | Wind Resource eXchange — wind resource assessment, wake modeling, and site analysis |
